@@ -1,0 +1,10 @@
+{
+  "name": "安哥拉葡萄牙语·第1周",
+  "short_name": "安哥拉葡语",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0A84FF",
+  "description": "安哥拉葡语第1周离线学习课程"
+}
